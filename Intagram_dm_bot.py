@@ -9,7 +9,7 @@ from selenium.webdriver.common.keys import Keys
 driver = webdriver.Chrome()
  
 # enter receiver user name
-user = ['ana_d_armas', 'madisonbeer']
+user = ['usernames', 'usernames']
 message_ = ("final test")
  
  
@@ -85,7 +85,7 @@ class bot:
  
  
 def init():
-    bot('ajah35961@gmail.com', 'Feb662005', user, message_)
+    bot('username', 'password', user, message_)
  
     # when our program ends it will show "done".
     input("DONE")
