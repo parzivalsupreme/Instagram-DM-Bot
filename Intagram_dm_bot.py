@@ -81,8 +81,8 @@ class InstagramBot:
 
 # Run the bot
 if __name__ == "__main__":
-    username = "ajah35961@gmail.com"
-    password = "Feb662005"
+    username = ""
+    password = ""
     users = ['ana_d_armas', 'madisonbeer']
     message = "reaching"
 
